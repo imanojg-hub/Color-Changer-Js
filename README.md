@@ -1,2 +1,1 @@
-﻿# color-changer-basic
- ## Javascript
+## Javascript Color Changer basic practice
